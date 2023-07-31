@@ -1,0 +1,13 @@
+@server = http://localhost:8080
+@emp = {{server}}/api/instrumentos
+###
+GET {{emp}}
+###
+POST {{emp}}
+Content-Type: application/json
+
+{
+    "nombre": "Bilbo",
+    "categoria": "Baggins",
+    "descripcion": "burglar"
+}
