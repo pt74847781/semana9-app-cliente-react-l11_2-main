@@ -7,7 +7,7 @@ POST {{emp}}
 Content-Type: application/json
 
 {
-    "nombre": "Bilbo",
-    "categoria": "Baggins",
-    "descripcion": "burglar"
+    "nombre": "cajon criollo",
+    "categoria": "percucuion",
+    "descripcion": "felices fiestas "
 }
